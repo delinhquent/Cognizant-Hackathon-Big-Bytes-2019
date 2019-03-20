@@ -5,9 +5,9 @@ Details of the challenge and dataset can be found at: http://bigbytes.sg/the-mis
 To build a machine learning model to reduce the time and effort for investigations as well as improve on the fraud recover through early identification and proactive management of suspicious transactions
 
 # Data preparation
-Random Oversampling on minority class 0 for training data set
-80% Training and 20% Testing split
-Standardizing of features
+1) Random Oversampling on minority class 0 for training data set
+2) 80% Training and 20% Testing split
+3) Standardizing of features
 
 # Chosen Model
 Logistic Regression
