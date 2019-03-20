@@ -1,5 +1,6 @@
 # Cognizant: Big Bytes Challenge 2019
-Details of the challenge and dataset can be found at: http://bigbytes.sg/the-mission/ 
+Details of the challenge and dataset can be found at: http://bigbytes.sg/the-mission/.
+This challenge was organized by Cognizant and I had the opportunity to build my model on IBM's Cloud Private Experiences Platform.
 
 # Objective
 To build a machine learning model to reduce the time and effort for investigations as well as improve on the fraud recover through early identification and proactive management of suspicious transactions
