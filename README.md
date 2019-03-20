@@ -20,4 +20,4 @@ I have first done EDA to understand more about the dataset which led me to a dec
 In my opinion, other models such as Neural Network has the capability to be trained to be specialized to detect fraudulant transactions accurately based on the different features, unlike Logistic Regression. However, this is still a fun and interesting experience for me.
 
 # Note
-The one we submitted for the challenges was not this model. It was done through Neural Network by my group mate. His project's git url: https://github.com/junronglau/Big-Bytes-Challenge-2019
+The one we submitted for the challenge was not this model. It was done with Neural Network by my group mate. His project's git url: https://github.com/junronglau/Big-Bytes-Challenge-2019
