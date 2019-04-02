@@ -5,11 +5,11 @@ This challenge was organized by Cognizant and I had the opportunity to build my 
 To build a machine learning model to reduce the time and effort for investigations as well as improve on the fraud recover through early identification and proactive management of suspicious transactions
 
 # Data preparation
-1) Random Oversampling on minority class 0 for training data set
+1) Random Oversampling on minority class for training data set
 2) 80% Training and 20% Testing split
 3) Standardizing of features
 
-# Chosen Model
+# Chosen Model (This is my team's baseline model)
 Logistic Regression
 
 # Reflection
